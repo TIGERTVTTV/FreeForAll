@@ -48,3 +48,56 @@ http://103.205.133.48/hls/banglatv.m3u8
 http://103.205.133.48/hls/mohonatv.m3u8
 #EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="TTV BANGLA",Asian TV
 http://103.205.133.48/hls/asiantv.m3u8
+#EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="TTV Islamic",Saudi Quran
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="TTV Islamic",Peace TV Bangla
+http://103.205.133.48/hls/peacetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="TTV Kids", Duronto TV 
+#http://103.157.237.18:8000/play/132
+http://103.106.243.163:8989/duronto-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TTV Kids",Nick
+#http://103.81.104.118/hls/stream23.m3u8
+#http://103.106.243.163:8989/nick/index.m3u8
+http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="TTV Kids",Sony Yay
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="TTV Kids",Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="TTV Kids", Cartoon Network English
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="TTV Indian Bangla", ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94MWo0U.png" group-title="TTV Indian Bangla", Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="TTV Indian Bangla", Colors Bangla HD
+http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="TTV Indian Bangla", Colors Bangla HD (2)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztIgmV5.png" group-title="TTV Indian Bangla", DD Bangla SD
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="TTV Indian Bangla", Jalsha Movies HD 
+http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="TTV Indian Bangla", Jalsha Movies HD (2)
+http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="TTV Indian Bangla", News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="TTV Indian Bangla", Sony Aaath
+http://103.205.133.18/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="TTV Indian Bangla", Sony Aaath (2)
+http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="TTV Indian Bangla", Star Jalsha HD 
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="TTVIndian Bangla", Star Jalsha HD (2)
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="TTV Indian Bangla", Star Jalsha HD (3)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="TTV Indian Bangla", Zee Bangla HD 
+http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="TTV Indian Bangla", Zee Bangla HD (2)
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="TTV Indian Bangla", Zee Bangla HD (3)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394155cad0d3fb6590a4994ad08d77346bc38e60e12e23d1e4c475b50b48f09950198e189a4b5a10ac74d1bd01ed0ad7cfe9fe35b93d1b3962912dfc9efa50066fb3a87e338845a44e7a813af5fa5d111e8be9802b&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="TTV Indian Bangla", Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="TTV Indian Bangla", Zee Bangla Cinema (2)
+http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
