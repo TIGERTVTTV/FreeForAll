@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="TTV BANGLA",BTV World
+http://103.205.133.48/hls/btvworld.m3u8
+#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="TTV BANGLA",BTV 
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="TTV BANGLA",Ekattor TV
+http://103.205.133.48/hls/ekatoortv.m3u8
+#EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="TTV BANGLA",SOMOY TV
+http://103.205.133.48/hls/somoy.m3u8
+#EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="TTV BANGLA",NEWS 24 HD
+http://103.205.133.48/hls/news24.m3u8
+#EXTINF:-10 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="TTV BANGLA",DBC News
+http://103.205.133.48/hls/dbcnews.m3u8
+#EXTINF:-9 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="TTV BANGLA",Channel 24
+http://103.205.133.48/hls/channel24.m3u8
+#EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="TTV BANGLA",JAMUNA TV
+http://103.205.133.48/hls/jamunatv.m3u8
+#EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="TTV BANGLA",ATN NEWS [BD]
+http://103.205.133.48/hls/atnnews.m3u8
+#EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="TTV BANGLA",ATN Bangla
+http://103.205.133.48/hls/atnbangla.m3u8
+#EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="TTV BANGLA",Banglavision
+http://103.205.133.48/hls/banglavision.m3u8
+#EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="TTV BANGLA",NTV
+http://103.205.133.48/hls/ntv.m3u8
+#EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="TTV BANGLA",RTV
+http://103.205.133.48/hls/rtv.m3u8
+#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="TTV BANGLA",SATV
+http://103.205.133.48/hls/satv.m3u8
+#EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="TTV BANGLA",Ekushey TV
+http://103.205.133.48/hls/ekushey.m3u8
+#EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="TTV BANGLA",Channel I
+http://103.205.133.48/hls/ichannel.m3u8
+#EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="TTV BANGLA",Deepto TV
+#http://103.205.133.48/hls/deeptotv.m3u8
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:-1 group-title="TTV BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="TTV BANGLA",NAGORIK TV HD
+http://103.205.133.48/hls/nagorik.m3u8
+#EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="TTV BANGLA",Desh TV
+http://103.205.133.48/hls/deshtv.m3u8
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="TTV BANGLA",MY TV HD
+http://103.205.133.48/hls/mytv.m3u8
+#EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="TTV BANGLA",Bangla TV
+http://103.205.133.48/hls/banglatv.m3u8
+#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="TTV BANGLA",Mohona Tv
+http://103.205.133.48/hls/mohonatv.m3u8
+#EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="TTV BANGLA",Asian TV
+http://103.205.133.48/hls/asiantv.m3u8
